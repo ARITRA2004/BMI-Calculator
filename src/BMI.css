@@ -1,0 +1,20 @@
+.input-field{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+input{
+    border-radius: 8px;
+    height: 2rem;
+    text-align: center;
+    outline: none;
+    border: none;
+}
+.main-container{
+    /* display: flex;
+    flex-direction: column; */
+    gap: 10px;
+    border: 2px solid white;
+    border-radius: 8px;
+    padding: 1rem;
+}
